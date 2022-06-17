@@ -14,6 +14,7 @@ A Unix shell is a command-line interpreter or shell that provides a command line
 This version of super simple shell support the next built-in
 
 | **Command**	| **Definition** |
+| --------- | --------------- |
 | exit	| Exit the shell with the command exit. |
 | env	| Print the environment. |
 # Installation
